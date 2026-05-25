@@ -1,0 +1,23 @@
+# Clojure / Leiningen
+target/
+classes/
+checkouts/
+
+# Clojure CLI / tools.deps
+.cpcache/
+
+# Calva (VSCode extension)
+.calva/
+.repl-port
+.nrepl-port
+
+# Clojure LSP / clj-kondo
+.clj-kondo/.cache/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
